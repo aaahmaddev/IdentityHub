@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Aeonik-regular';
+    src: url(../../../../assets/fonts/AeonikTRIAL-Regular.otf);
+}
+
+.first-sec {
+    background-color: #1f060a;
+}
+
+.first-sec-text-box {
+    width: 84px;
+    height: 26px;
+    border-radius: 38px;
+    border: 1px solid #8D1EA2;
+    box-shadow: 0px 4px 50px 0px #9F64EF66;
+    box-shadow: 0px 0px 12px 0px #FFFFFF33 inset;
+}
+
+.first-sec-text {
+    font-family: 'Aeonik';
+    font-size: 14px;
+}
+.first-sec-top-subtitle{
+    font-family: 'Sora-sb';
+    font-size: 40px;
+    
+}
+
+.first-sec-subtitle-span{
+    color: #8D1EA2;
+}
+.first-sec-top-text{
+    font-family: 'Aeonik-regular';
+    font-size: 24px;
+}

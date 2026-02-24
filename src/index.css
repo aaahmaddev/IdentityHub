@@ -1,0 +1,12 @@
+:root {
+    --text-grey: #CAD1E9;
+    --bgc-body: #1f060a;
+}
+
+.text-gray {
+    color: var(--text-grey);
+}
+
+.bgc-body {
+    background-color: var(--bgc-body);
+}

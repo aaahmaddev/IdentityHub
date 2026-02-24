@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Aeonik';
+    src: url(../../fonts/AeonikTRIAL-Regular.otf);
+}
+
+
+.header-logo-img{
+    width: 196px;
+}
+
+.header-inner{
+    height: 64px;
+    border: 1px solid #fff;
+    border-radius: 12px;
+}
+.header-nav-link{
+    font-family: 'Aeonik';
+}
+.header-button{
+    width: 155px;
+    height: 40px;
+    border: 1px solid #fff;
+    border-radius: 12px;
+    background-color: transparent; 
+
+}
