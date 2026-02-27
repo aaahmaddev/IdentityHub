@@ -3,6 +3,9 @@
     src: url(../../fonts/AeonikTRIAL-Regular.otf);
 }
 
+header{
+    background-color: #0C0A12 !important;
+}
 
 .header-logo-img{
     width: 196px;

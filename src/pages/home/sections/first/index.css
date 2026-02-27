@@ -3,8 +3,13 @@
     src: url(../../../../assets/fonts/AeonikTRIAL-Regular.otf);
 }
 
+@font-face {
+    font-family: 'Sora-regular';
+    src: url(../../../../assets/fonts/Sora-Regular.ttf);
+}
+
 .first-sec {
-    background-color: #1f060a;
+    background-color: #0C0A12;
 }
 
 .first-sec-text-box {
@@ -20,16 +25,43 @@
     font-family: 'Aeonik';
     font-size: 14px;
 }
-.first-sec-top-subtitle{
+
+.first-sec-top-subtitle {
     font-family: 'Sora-sb';
     font-size: 40px;
-    
+
 }
 
-.first-sec-subtitle-span{
+.first-sec-subtitle-span {
     color: #8D1EA2;
 }
-.first-sec-top-text{
+
+.first-sec-top-text {
     font-family: 'Aeonik-regular';
     font-size: 24px;
+}
+
+.first-sec-card {
+    width: 424px;
+    height: 370px;
+    border: 1px solid #E73DC4;
+    border-radius: 32px;
+
+}
+
+.f-card-subtitle {
+    font-family: 'Aeonik-md';
+    color: #D6DDF8;
+    font-size: 28px;
+}
+
+.f-card-text {
+    font-family: 'Aeonik-regular';
+    font-size: 20px;
+}
+
+.f-card-b-text {
+    font-family: 'Sora-regular';
+    color: #fff;
+    font-size: 20px;
 }
