@@ -1,0 +1,94 @@
+.third-sec {
+    background-color: #0C0A12 !important;
+}
+
+.third-sec-text-box {
+    width: 84px;
+    height: 26px;
+    border-radius: 38px;
+    border: 1px solid #8D1EA2;
+    box-shadow: 0px 4px 50px 0px #9F64EF66;
+    box-shadow: 0px 0px 12px 0px #FFFFFF33 inset;
+}
+
+.third-sec-text {
+    font-family: 'Aeonik-regular';
+    font-size: 14px;
+}
+
+.third-sec-title {
+    font-family: 'Sora-sb';
+    font-size: 40px;
+    color: #CAD1E9;
+}
+
+.third-sec-t-span {
+    color: #E73DC4;
+}
+
+.card-pricing {
+    width: 410px;
+    height: 660px;
+    border: 1px solid #fff;
+    border-radius: 32px;
+}
+
+.card-pricing-title {
+    font-family: "Sora-sb";
+    font-size: 32px;
+    color: #fff;
+}
+
+.card-pricing-text {
+    font-family: "Aeonik-regular";
+    color: #CAC6DD;
+    font-size: 20px;
+}
+
+.card-pricing-value {
+    font-family: 'Sora-sb';
+    font-size: 88px;
+    color: #fff;
+}
+
+.card-pricing-span {
+    font-family: "Sora-regular";
+    font-size: 40px;
+    color: #fff;
+}
+
+.card-pricing-btn {
+    width: 346px;
+    height: 48px;
+    border: 1.4px solid #8D1EA2;
+    border-radius: 12px;
+    background-color: transparent;
+    color: #fff;
+}
+
+.card-pricing-mb {
+    border-bottom: 1px solid #ffffffbd;
+}
+
+.card-pricing-mbt {
+    font-size: 20px;
+    font-family: "Aeonik-regular";
+    color: #CAC6DD;
+}
+
+.card-pricing-s {
+    width: 410px;
+    height: 760px;
+    border: 1px solid #fff;
+    border-radius: 32px;
+}
+
+.card-pricing-sbtn {
+    width: 346px;
+    height: 48px;
+    border: 1.4px solid #8D1EA2;
+    border-radius: 12px;
+    background: #090EDB;
+    background: linear-gradient(90deg, rgba(9, 14, 219, 1) 0%, rgba(218, 36, 187, 1) 50%);
+    color: #fff;
+}
